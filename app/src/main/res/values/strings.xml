@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News Headlines</string>
+    <string name="no_description">Description not available for this article.</string>
+    <string name="no_content_preview">Content preview not available.</string>
+</resources>

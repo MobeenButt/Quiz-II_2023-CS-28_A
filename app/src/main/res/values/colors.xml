@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="warm_ivory">#FFF8EF</color>
+    <color name="paper_white">#FFFDF8</color>
+    <color name="champagne">#FFF3E3</color>
+    <color name="soft_stone">#FFE2D9CA</color>
+    <color name="dusty_peach">#FFF1D7C8</color>
+    <color name="muted_gold">#FFCBA86E</color>
+    <color name="sage_accent">#FF9EB39D</color>
+    <color name="ink">#FF1F1B17</color>
+    <color name="muted_text">#FF6E655E</color>
+    <color name="error_text">#FFB00020</color>
+</resources>
